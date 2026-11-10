@@ -1,0 +1,4 @@
+age_group,players,mean_rank_improvement_24m,median_rank_improvement_24m,mean_rating_change_24m,median_rating_change_24m
+21-29,140,9.378571428571428,6.5,55.14074074074074,60.0
+30+,50,-10.32,-7.5,6.26530612244898,0.0
+Under 21,192,48.109375,42.0,108.90425531914893,93.0
