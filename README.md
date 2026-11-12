@@ -1,5 +1,8 @@
 # table-tennis-ranking-analysis
 
+IMPORTANT:
+I do not have access to Power BI Publish to Web as I do not have an organizational email with a Power BI subscription. As a result, I can not publish the interactable dashboard. If you download the file, you can open it in Power BI and play with the dashboard yourself. I have included screenshots and video as well demonstrating it.
+
 Overview
 
 Analysis of table tennis rankings from Jan 2010 to Oct 2026. Using this data to analyse for trends connected to the specifications of the players (age, handedness, country, and so on.)
