@@ -1,7 +1,7 @@
 # table-tennis-ranking-analysis
 
 IMPORTANT:
-I do not have access to Power BI Publish to Web as I do not have an organizational email with a Power BI subscription. As a result, I can not publish the interactable dashboard. If you download the file, you can open it in Power BI and play with the dashboard yourself. I have included screenshots and video as well demonstrating it.
+I do not have access to Power BI Publish to Web as I do not have an organizational email with a Power BI subscription. As a result, I can not publish the interactable dashboard. If you download the file, which you can find in the PowerBI folder, you can open it in Power BI and play with the dashboard yourself. I have included screenshots and video as well demonstrating it, in the screenshots folder!
 
 Overview
 
