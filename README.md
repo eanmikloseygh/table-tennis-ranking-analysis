@@ -19,3 +19,7 @@ Chinese dominance is no joke, with the top 8 peaks all belonging to chinese play
 Left-handed players are vastly over-represented at the top compared to the population average. This suggests there is advantage in being left-handed.
 Average ranking trends down until the age of 29. While the average age of the top 20 is roughly 26, it suggests that the peak of a table tennis player is in the late 20s, which is later than most sports. 
 The average age of joining the top20 is lower than the average age of exiting the top20, but it is not by as much as one might imagine. This may be attributed due to a lot of the players who join the top20 are ones who leave it shortly thereafter, as they are on the fringe.
+
+Recommendation
+
+There is certainly something to say about clubs or national teams putting extra interest in left-handed players. In the same regard, styles other than attack are obsolete at the top. I think a larger study would need to be required to study the relationship between shakehand and penhold, as its not clear whether the representation at the highest level is more or less than the overall representation in the sport.
